@@ -30,9 +30,11 @@ b. Box plots of the final survivlal scores of each treatment group to visually c
 c. Scatter plot of plant height v.s final survival score to visualize correlation between the two. 
 d. Maybe a Survival Checkpoint Bar Chart to look at weekly progression.
 
-4. Statistical Methods
+* Google AI was briefly used here to provide examples of suitable data vizualization methods based on the data types available. 
+
+5. Statistical Methods
 a. Build 95% Confidence Intervals for mean height.
 b. Conduct a t-test to find the difference between mean height of stresssed and control plants. 
 
-5. Expected Outcomes
-By the end of the project, I expect my results to indicate that the control groups are healthier than their stressed counterparts, but for the results to not be sufficient to reject the null hypothesis since the number of individuals with consistent data in the sample from the populations is not very high. 
+6. Expected Outcomes
+By the end of the project, I expect my results to indicate that the control groups are healthier than their stressed counterparts, but for the results to not be sufficient to reject the null hypothesis since the number of individuals with consistent data in the sample from the populations is not very high.
