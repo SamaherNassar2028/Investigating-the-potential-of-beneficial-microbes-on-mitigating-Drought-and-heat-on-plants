@@ -1,19 +1,40 @@
 # Investigating-the-potential-of-beneficial-microbes-on-mitigating-Drought-and-heat-on-plants
 Expnaded Title: Investigating the potential of beneficial microbes—Agrobacterium and Arbuscular Mycorrhiza—on mitigating the effects of Drought and high Temperatures, on Black Seed Plants
 
-Research Question 1: How do beneficial microbes affect the height and qualitative survival indicator of N. sativa under climate stress?
-Research Question 2: What is the impact of microbial inoculation on chloroplast levels and leaf counts in stressed N. sativa plants?
+**Updated as of June, 12th, 2026.
+
+Research Question 1: How do beneficial microbes affect the height and qualitative survival indicator of plants under climate stress?
+Research Question 2: What is the impact of microbial inoculation on chloroplast levels and leaf counts in stressed plants?
 
 Name of the Dataset: Nigella sativa Resilience towards environmental stressors while subjected to microbial Inoculation.
+
+**Note: Due to high climate-induced mortality rates observed within the *Nigella sativa* plants, additional ones from *Brassica oleracea* were added to the experiment to aid in reasonable sample sizes and statistical significance.
 
 Dataset Source: Original experimental data collected by Samaher Faisal Nassar at the Chicago Botanic Garden. The project was conducted under the mentorship of Dr. Alicia Foxx.
 
 Spatial and Temporal Coverage: Growth chamber at CBG, where the plants underwent a 5 week growth period following a 2 week germination period.
 
 Variables:
-Final height (mm) and Qualitative survival score (0–2 scale: wilting, necrosis, or thriving).
+  * `species`: Factor tracking plant varieties (*N. sativa* and *B. oleracea*).
+  * `treatment`: Factor tracking 12 distinct environmental/microbial stress cohorts.
+  * `final_height`: Continuous quantitative shoot height (cm) measured on 08/29.
+  * `final_status`: Categorical qualitative survival score (0=Dead,1=Necrosis/Wilting, 2=Thriving).
+  * `chlorophyll_final`: Continuous quantitative photosynthetic measurement.
+  * `leaf_count_final`: Discrete count of emerged true leaves.
 
 File Format: CSV, and xlsx.
+
+Repository Structure
+01_Code                # Documented R scripts numbered by execution sequence
+01_data_cleaning.R
+	02_analyze_data.R
+03_make_figures.R
+02_RawData         # Original, untouched greenhouse CSV spreadsheet data
+03_ProcessedData # Cleaned, analysis-ready data
+04_Results           # Output text files of statistical test results (.txt)
+05_Figures          # Generated high-resolution data plots and graphics (.png)
+06_Tables           # Calculated confidence interval summary metrics (.csv)
+07_Final_Report # Final written paper
 
 Preliminary Method Plan: 
 1. Data Cleaning & Preparation 
