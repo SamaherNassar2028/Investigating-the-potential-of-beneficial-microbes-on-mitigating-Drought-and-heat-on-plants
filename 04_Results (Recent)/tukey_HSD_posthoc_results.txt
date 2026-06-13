@@ -1,0 +1,141 @@
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = final_height ~ treatment, data = living_df)
+
+$treatment
+                                                                                                              diff        lwr
+Control (Bacteira & Fungi) -Control                                                                   9.333333e-01 -2.9953343
+Control (Bacteria) -Control                                                                          -6.500000e-01 -5.1508543
+Control (Fungi) -Control                                                                             -3.250000e+00 -6.5074792
+Drought -Control                                                                                      1.000000e+00 -2.9286677
+Drought + Bacterial Inoculation-Control                                                               7.500000e-01 -2.8587117
+Drought + Fungi Inoculation-Control                                                                  -9.200000e-01 -4.3223260
+Drought + Fungi Inoculation + Bacterial Inoculation-Control                                           7.400000e-01 -2.6623260
+Heat-Control                                                                                         -2.825000e+00 -6.4337117
+Heat + Bacterial Inoculation-Control                                                                 -1.500000e+00 -4.7574792
+Heat + Fungi Inoculation-Control                                                                     -5.000000e-01 -3.9023260
+Heat + Fungi Inoculation + Bacterial Inoculation-Control                                             -5.000000e-01 -3.6499418
+Control (Bacteria) -Control (Bacteira & Fungi)                                                       -1.583333e+00 -6.4941679
+Control (Fungi) -Control (Bacteira & Fungi)                                                          -4.183333e+00 -7.9872495
+Drought -Control (Bacteira & Fungi)                                                                   6.666667e-02 -4.3257173
+Drought + Bacterial Inoculation-Control (Bacteira & Fungi)                                           -1.833333e-01 -4.2920323
+Drought + Fungi Inoculation-Control (Bacteira & Fungi)                                               -1.853333e+00 -5.7820010
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Bacteira & Fungi)                       -1.933333e-01 -4.1220010
+Heat-Control (Bacteira & Fungi)                                                                      -3.758333e+00 -7.8670323
+Heat + Bacterial Inoculation-Control (Bacteira & Fungi)                                              -2.433333e+00 -6.2372495
+Heat + Fungi Inoculation-Control (Bacteira & Fungi)                                                  -1.433333e+00 -5.3620010
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Bacteira & Fungi)                          -1.433333e+00 -5.1455754
+Control (Fungi) -Control (Bacteria)                                                                  -2.600000e+00 -6.9923840
+Drought -Control (Bacteria)                                                                           1.650000e+00 -3.2608346
+Drought + Bacterial Inoculation-Control (Bacteria)                                                    1.400000e+00 -3.2588268
+Drought + Fungi Inoculation-Control (Bacteria)                                                       -2.700000e-01 -4.7708543
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Bacteria)                                1.390000e+00 -3.1108543
+Heat-Control (Bacteria)                                                                              -2.175000e+00 -6.8338268
+Heat + Bacterial Inoculation-Control (Bacteria)                                                      -8.500000e-01 -5.2423840
+Heat + Fungi Inoculation-Control (Bacteria)                                                           1.500000e-01 -4.3508543
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Bacteria)                                   1.500000e-01 -4.1632355
+Drought -Control (Fungi)                                                                              4.250000e+00  0.4460839
+Drought + Bacterial Inoculation-Control (Fungi)                                                       4.000000e+00  0.5275156
+Drought + Fungi Inoculation-Control (Fungi)                                                           2.330000e+00 -0.9274792
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Fungi)                                   3.990000e+00  0.7325208
+Heat-Control (Fungi)                                                                                  4.250000e-01 -3.0474844
+Heat + Bacterial Inoculation-Control (Fungi)                                                          1.750000e+00 -1.3558845
+Heat + Fungi Inoculation-Control (Fungi)                                                              2.750000e+00 -0.5074792
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Fungi)                                      2.750000e+00 -0.2429052
+Drought + Bacterial Inoculation-Drought                                                              -2.500000e-01 -4.3586990
+Drought + Fungi Inoculation-Drought                                                                  -1.920000e+00 -5.8486677
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought                                          -2.600000e-01 -4.1886677
+Heat-Drought                                                                                         -3.825000e+00 -7.9336990
+Heat + Bacterial Inoculation-Drought                                                                 -2.500000e+00 -6.3039161
+Heat + Fungi Inoculation-Drought                                                                     -1.500000e+00 -5.4286677
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought                                             -1.500000e+00 -5.2122420
+Drought + Fungi Inoculation-Drought + Bacterial Inoculation                                          -1.670000e+00 -5.2787117
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought + Bacterial Inoculation                  -1.000000e-02 -3.6187117
+Heat-Drought + Bacterial Inoculation                                                                 -3.575000e+00 -7.3789161
+Heat + Bacterial Inoculation-Drought + Bacterial Inoculation                                         -2.250000e+00 -5.7224844
+Heat + Fungi Inoculation-Drought + Bacterial Inoculation                                             -1.250000e+00 -4.8587117
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Bacterial Inoculation                     -1.250000e+00 -4.6218113
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation                       1.660000e+00 -1.7423260
+Heat-Drought + Fungi Inoculation                                                                     -1.905000e+00 -5.5137117
+Heat + Bacterial Inoculation-Drought + Fungi Inoculation                                             -5.800000e-01 -3.8374792
+Heat + Fungi Inoculation-Drought + Fungi Inoculation                                                  4.200000e-01 -2.9823260
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation                          4.200000e-01 -2.7299418
+Heat-Drought + Fungi Inoculation + Bacterial Inoculation                                             -3.565000e+00 -7.1737117
+Heat + Bacterial Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation                     -2.240000e+00 -5.4974792
+Heat + Fungi Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation                         -1.240000e+00 -4.6423260
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation -1.240000e+00 -4.3899418
+Heat + Bacterial Inoculation-Heat                                                                     1.325000e+00 -2.1474844
+Heat + Fungi Inoculation-Heat                                                                         2.325000e+00 -1.2837117
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat                                                 2.325000e+00 -1.0468113
+Heat + Fungi Inoculation-Heat + Bacterial Inoculation                                                 1.000000e+00 -2.2574792
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat + Bacterial Inoculation                         1.000000e+00 -1.9929052
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat + Fungi Inoculation                             1.776357e-15 -3.1499418
+                                                                                                              upr     p adj
+Control (Bacteira & Fungi) -Control                                                                   4.862001008 0.9994797
+Control (Bacteria) -Control                                                                           3.850854250 0.9999963
+Control (Fungi) -Control                                                                              0.007479151 0.0510028
+Drought -Control                                                                                      4.928667675 0.9990162
+Drought + Bacterial Inoculation-Control                                                               4.358711690 0.9998545
+Drought + Fungi Inoculation-Control                                                                   2.482326009 0.9983034
+Drought + Fungi Inoculation + Bacterial Inoculation-Control                                           4.142326009 0.9997744
+Heat-Control                                                                                          0.783711690 0.2591477
+Heat + Bacterial Inoculation-Control                                                                  1.757479151 0.9032678
+Heat + Fungi Inoculation-Control                                                                      2.902326009 0.9999955
+Heat + Fungi Inoculation + Bacterial Inoculation-Control                                              2.649941806 0.9999901
+Control (Bacteria) -Control (Bacteira & Fungi)                                                        3.327501260 0.9923759
+Control (Fungi) -Control (Bacteira & Fungi)                                                          -0.379417214 0.0202767
+Drought -Control (Bacteira & Fungi)                                                                   4.459050658 1.0000000
+Drought + Bacterial Inoculation-Control (Bacteira & Fungi)                                            3.925365668 1.0000000
+Drought + Fungi Inoculation-Control (Bacteira & Fungi)                                                2.075334342 0.8885196
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Bacteira & Fungi)                        3.735334342 1.0000000
+Heat-Control (Bacteira & Fungi)                                                                       0.350365668 0.1012517
+Heat + Bacterial Inoculation-Control (Bacteira & Fungi)                                               1.370582786 0.5523556
+Heat + Fungi Inoculation-Control (Bacteira & Fungi)                                                   2.495334342 0.9799361
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Bacteira & Fungi)                           2.278908685 0.9696158
+Control (Fungi) -Control (Bacteria)                                                                   1.792383991 0.6622450
+Drought -Control (Bacteria)                                                                           6.560834594 0.9893763
+Drought + Bacterial Inoculation-Control (Bacteria)                                                    6.058826758 0.9957528
+Drought + Fungi Inoculation-Control (Bacteria)                                                        4.230854250 1.0000000
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Bacteria)                                5.890854250 0.9946550
+Heat-Control (Bacteria)                                                                               2.483826758 0.8950784
+Heat + Bacterial Inoculation-Control (Bacteria)                                                       3.542383991 0.9999277
+Heat + Fungi Inoculation-Control (Bacteria)                                                           4.650854250 1.0000000
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Bacteria)                                   4.463235454 1.0000000
+Drought -Control (Fungi)                                                                              8.053916119 0.0171767
+Drought + Bacterial Inoculation-Control (Fungi)                                                       7.472484442 0.0123035
+Drought + Fungi Inoculation-Control (Fungi)                                                           5.587479151 0.3847289
+Drought + Fungi Inoculation + Bacterial Inoculation-Control (Fungi)                                   7.247479151 0.0059585
+Heat-Control (Fungi)                                                                                  3.897484442 0.9999993
+Heat + Bacterial Inoculation-Control (Fungi)                                                          4.855884506 0.7249145
+Heat + Fungi Inoculation-Control (Fungi)                                                              6.007479151 0.1716577
+Heat + Fungi Inoculation + Bacterial Inoculation-Control (Fungi)                                      5.742905198 0.0980197
+Drought + Bacterial Inoculation-Drought                                                               3.858699001 1.0000000
+Drought + Fungi Inoculation-Drought                                                                   2.008667675 0.8639026
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought                                           3.668667675 1.0000000
+Heat-Drought                                                                                          0.283699001 0.0890026
+Heat + Bacterial Inoculation-Drought                                                                  1.303916119 0.5119976
+Heat + Fungi Inoculation-Drought                                                                      2.428667675 0.9719663
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought                                              2.212242018 0.9582104
+Drought + Fungi Inoculation-Drought + Bacterial Inoculation                                           1.938711690 0.9003740
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought + Bacterial Inoculation                   3.598711690 1.0000000
+Heat-Drought + Bacterial Inoculation                                                                  0.228916119 0.0828540
+Heat + Bacterial Inoculation-Drought + Bacterial Inoculation                                          1.222484442 0.5332815
+Heat + Fungi Inoculation-Drought + Bacterial Inoculation                                              2.358711690 0.9865023
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Bacterial Inoculation                      2.121811258 0.9773996
+Drought + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation                       5.062326009 0.8651482
+Heat-Drought + Fungi Inoculation                                                                      1.703711690 0.7966448
+Heat + Bacterial Inoculation-Drought + Fungi Inoculation                                              2.677479151 0.9999684
+Heat + Fungi Inoculation-Drought + Fungi Inoculation                                                  3.822326009 0.9999993
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation                          3.569941806 0.9999984
+Heat-Drought + Fungi Inoculation + Bacterial Inoculation                                              0.043711690 0.0554941
+Heat + Bacterial Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation                      1.017479151 0.4436407
+Heat + Fungi Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation                          2.162326009 0.9800934
+Heat + Fungi Inoculation + Bacterial Inoculation-Drought + Fungi Inoculation + Bacterial Inoculation  1.909941806 0.9651431
+Heat + Bacterial Inoculation-Heat                                                                     4.797484442 0.9720921
+Heat + Fungi Inoculation-Heat                                                                         5.933711690 0.5417634
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat                                                 5.696811258 0.4394960
+Heat + Fungi Inoculation-Heat + Bacterial Inoculation                                                 4.257479151 0.9949162
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat + Bacterial Inoculation                         3.992905198 0.9898372
+Heat + Fungi Inoculation + Bacterial Inoculation-Heat + Fungi Inoculation                             3.149941806 1.0000000
+

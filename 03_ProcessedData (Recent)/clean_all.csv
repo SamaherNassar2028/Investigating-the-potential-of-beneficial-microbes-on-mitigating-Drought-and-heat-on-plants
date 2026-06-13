@@ -1,0 +1,337 @@
+"species","treatment","rack","height_08_08","height_08_11","height_08_14","height_08_18","height_08_20","height_08_22","height_08_25","final_height","status_08_08","status_08_11","status_08_14","status_08_18","status_08_20","status_08_22","final_status","chlorophyll_08_18","chlorophyll_08_22","chlorophyll_final","leaf_count_08_26","leaf_count_08_28","leaf_count_final"
+"Nigella sativa","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,1.6,1.6,1.8,1.9,2.1,2.4,5.1,5.8,2,2,2,2,2,2,NA,44.8,27.2,36.6,2,3,3
+"","Control",1,1.4,2.7,2.9,3.3,3.5,3.5,5.9,6.7,2,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,2.2,4.6,5.5,4.8,5.1,5.3,8.2,9.6,2,2,2,2,2,1,NA,NA,NA,NA,2,2,2
+"","Control",1,1.6,2.9,4.2,4.7,5,5.1,9.3,10.8,2,2,2,1,2,1,NA,NA,NA,NA,2,3,3
+"","Control",1,0.6,4.8,6,6.2,7,8.3,10.9,11.1,2,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"Nigella sativa","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,2,NA,NA,0,NA,NA,NA,1.2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control",1,NA,NA,0.5,1,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,0.8,0.9,NA,NA,NA,0,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,0.2,0.3,NA,NA,NA,0,NA,NA,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,0.7,1,2.2,2.4,2.5,0.9,NA,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,NA
+"","Control (Bacteria) ",1,NA,NA,NA,1.5,NA,NA,0,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,0.8,2.2,2.6,2.8,0.9,NA,NA,NA,2,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,0.4,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,0.3,2.4,3.5,3.5,3.6,4.2,6.4,7.9,2,2,2,2,2,2,NA,39.3,23.2,37.5,3,3,3
+"","Control (Bacteria) ",1,NA,2.3,2.6,4.1,4.3,4.7,7.3,8.4,NA,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Control (Bacteria) ",1,NA,1.7,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteria) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,1,0.5,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,4.5,4.9,5.2,5.4,5.5,7.5,8.5,NA,2,2,2,2,2,NA,46.5,23.1,29.7,2,2,2
+"","Control (Fungi) ",1,NA,1.1,1.1,1.1,1.3,1.8,3.7,5.4,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Control (Fungi) ",1,NA,2.4,3.1,3.3,3.5,3.9,5.8,7.3,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Control (Fungi) ",1,NA,0.7,1.3,1.8,2,2.1,2.5,5,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Control (Fungi) ",1,NA,0.9,0.9,1.1,1.3,1,0.9,2.3,NA,2,2,2,2,2,NA,NA,NA,NA,1,1,0
+"","Control (Fungi) ",1,0.4,1.8,1.9,1.6,1.9,2.1,2.9,4.8,2,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"Nigella sativa","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,0.3,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,0.6,0.3,NA,NA,NA,NA,NA,NA,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Control (Bacteira & Fungi) ",1,NA,4.2,4.7,5.1,5.8,6,7.5,8.6,NA,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"","Control (Bacteira & Fungi) ",1,NA,3.7,4.7,3.6,4.2,4.5,7.4,8.3,NA,2,2,1,2,2,NA,33.7,20.7,25.7,2,2,2
+"","Control (Bacteira & Fungi) ",1,NA,1.4,0.8,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,0.8,2.7,5.5,6.1,6.5,6.9,11,12.3,2,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"","Control (Bacteira & Fungi) ",1,NA,1.2,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,0.7,1.1,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Control (Bacteira & Fungi) ",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,0.6,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,0.3,1.1,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,0.2,2.7,3.3,3.7,4,3.9,6,6.5,2,2,2,2,2,2,NA,40.7,21.4,18.6,1,1,1
+"","Heat",2,0.2,2.9,3.6,4.2,4.4,4.7,6.5,7.3,2,2,2,1,2,2,NA,NA,NA,NA,2,3,2
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,1.7,1.8,1.9,2,23,4,4.6,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,1
+"","Heat",2,NA,1.6,1.6,2.1,2.3,2.5,4.33,5.5,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Heat",2,NA,1.3,1.3,1.1,NA,NA,NA,NA,NA,2,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,0.3,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Heat + Bacterial Inoculation",2,NA,2.4,3.4,4.8,4,4.5,8.1,7.8,NA,2,2,1,1,2,1,38.8,27.2,15.9,2,2,2
+"","Heat + Bacterial Inoculation",2,NA,3.7,4.6,3.8,4.8,5.2,8,9.1,NA,2,2,2,2,2,1,NA,NA,NA,2,2,2
+"","Heat + Bacterial Inoculation",2,NA,1.6,2.4,2.8,2.8,3.3,5.1,6.1,NA,2,2,1,2,2,1,NA,NA,NA,2,2,2
+"","Heat + Bacterial Inoculation",2,NA,1.8,1.9,2.4,2.5,2.8,5.7,6.2,NA,2,2,2,2,2,1,NA,NA,NA,2,2,2
+"","Heat + Bacterial Inoculation",2,NA,NA,1.6,2.3,2.4,2.9,5.7,7.9,NA,NA,2,2,2,2,1,NA,NA,NA,2,2,2
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,0.4,2.2,2.4,3.5,3.6,4,6.5,6.7,2,2,NA,2,2,2,1,NA,NA,NA,2,2,2
+"Nigella sativa","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,0.4,0.8,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,0.2,0.3,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Heat + Fungi Inoculation",2,0.3,2.3,2.8,2.9,3.1,3.8,6.5,6.8,2,2,2,2,2,2,NA,37.4,21.8,26.2,2,2,2
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,1,2.8,4.3,4.6,5.3,6.4,9,9.2,2,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Heat + Fungi Inoculation",2,1.2,2.6,3.4,3.8,3.9,4.5,8.7,9.4,2,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Heat + Fungi Inoculation",2,0.5,2.8,3.2,3.5,4.2,4.7,7.4,8.2,2,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,7.2,7.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,1.5,3.1,3.4,3.8,4.3,NA,NA,NA,2,2,2,2,NA,NA,NA,NA,NA,NA,3,3,3
+"Nigella sativa","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,2.5,3.4,3.7,3.8,4,6.6,7.5,NA,2,2,2,2,2,NA,32.4,31.1,19.9,2,2,2
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,2.6,3.3,3.9,3.9,4.5,8.1,8.9,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,3.3,3.8,4.1,5.2,5.6,7.6,8.6,NA,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,2.3,3,3.4,3.7,4.9,7.9,8.9,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,3
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,0.9,1.7,2.3,2.4,3.4,6.4,6.7,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,3.6,4,4.2,5.5,6.4,8.4,10.1,NA,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,2.7,2.6,3.3,3.5,4.2,6.8,7.4,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"Nigella sativa","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Heat + Fungi Inoculation + Bacterial Inoculation",2,NA,0.3,0.9,0.8,1.2,1.4,1.3,NA,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,NA
+"Nigella sativa","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,0.7,0.3,0.3,NA,NA,NA,NA,NA,2,1,1,0,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,1.2,0.5,0.6,0.8,NA,NA,NA,NA,2,1,2,2,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,0.8,0.9,0.9,1.1,NA,NA,NA,NA,2,2,2,2,NA,36.1,16.5,26.5,NA,NA,NA
+"Brassica oleracea","Drought ",3,NA,3.3,3.8,5,5,5.4,9.6,10.6,NA,2,2,2,2,2,NA,NA,NA,NA,3,3,2
+"","Drought ",3,NA,1.9,2.8,2.5,2.8,3.1,6.5,8.3,NA,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"","Drought ",3,NA,3.2,0.9,0.8,1,1.2,NA,NA,NA,2,1,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,4.5,4.7,5.1,5.5,5.7,7.4,10.5,NA,2,2,2,2,2,NA,NA,NA,NA,2,3,2
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,2.3,2.5,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,0.6,0.8,NA,NA,NA,NA,NA,NA,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought ",3,NA,0.4,0.6,0.6,0.8,1.4,1.7,NA,NA,2,2,2,2,2,NA,NA,NA,NA,4,4,NA
+"Nigella sativa","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,0.5,0.4,0.6,0.9,NA,NA,NA,NA,2,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,1.6,1.8,1.9,2.6,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,3,3,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Drought + Bacterial Inoculation",3,NA,NA,1.4,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,0.6,2.2,5.2,5.3,5.9,6.3,9.1,10.6,2,2,2,2,2,2,NA,NA,NA,NA,3,3,2
+"","Drought + Bacterial Inoculation",3,NA,NA,1.4,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,1.7,4.5,7,4.2,4.6,4.6,5.9,8.7,2,2,2,1,2,2,NA,NA,NA,NA,2,2,2
+"","Drought + Bacterial Inoculation",3,NA,4.3,3.7,5.3,5.5,6.2,8.9,9.3,NA,2,2,2,2,2,NA,34.3,17.5,34.3,2,2,2
+"","Drought + Bacterial Inoculation",3,NA,2.3,4,6.1,6.3,6.8,8.9,9.6,NA,2,2,1,1,2,NA,NA,NA,NA,2,2,2
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,0.2,0.2,NA,NA,NA,NA,NA,NA,2,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,0.3,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,0.9,2.3,2.5,2.5,NA,NA,NA,NA,2,2,2,1,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,0.3,0.3,0.5,0.5,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA
+"Brassica oleracea","Drought + Fungi Inoculation",3,0.7,2,2.1,2.6,3.2,3.9,6.1,7.3,2,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Drought + Fungi Inoculation",3,1.7,2.1,2.6,3.2,3.5,4.3,6.6,6.8,2,2,2,2,2,2,NA,54.5,27.6,39.8,2,3,3
+"","Drought + Fungi Inoculation",3,1.8,5.7,6.1,6.2,6.5,8,11,10.7,2,2,2,2,2,2,NA,NA,NA,NA,2,3,2
+"","Drought + Fungi Inoculation",3,2.1,2.4,3.2,3.5,3.8,4.2,7.2,7.4,2,2,2,2,2,2,NA,NA,NA,NA,4,4,4
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,1.4,1.8,2.7,2.9,3.8,6.3,7.2,NA,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"Nigella sativa","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,0.4,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,0.4,0.6,0.9,NA,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,0.6,1.1,1.4,1.2,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,0,0,NA
+"Brassica oleracea","Drought + Fungi Inoculation + Bacterial Inoculation",3,1.3,2,3.3,4.4,4.4,4.8,6.7,8.1,2,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,1.2,4.3,4.8,4.9,5,6.5,9.4,11,2,2,2,2,2,2,NA,NA,NA,NA,3,3,2
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,1.2,1.8,2.3,2.4,2.8,3.9,6.3,7.9,2,2,2,2,2,2,NA,40.2,NA,NA,2,2,2
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,1.7,3.8,4.2,6,6.2,7.4,10.1,10.9,2,2,2,2,2,2,NA,NA,NA,NA,3,3,3
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,3.2,3.4,3.5,3.8,4.8,8.4,9.8,NA,2,2,2,2,2,NA,NA,NA,NA,2,2,2
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Nigella sativa","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,0.3,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,0.7,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,1.3,1.9,2.3,1.1,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,2,0,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"","Drought + Fungi Inoculation + Bacterial Inoculation",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,6 @@
+
+	Chi-squared test for given probabilities with simulated p-value (based on 2000 replicates)
+
+data:  clean_contingency
+X-squared = 3.5714, df = NA, p-value = 0.1229
+

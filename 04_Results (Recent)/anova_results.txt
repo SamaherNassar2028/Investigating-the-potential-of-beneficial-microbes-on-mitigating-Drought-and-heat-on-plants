@@ -1,0 +1,5 @@
+            Df Sum Sq Mean Sq F value  Pr(>F)    
+treatment   11  99.54   9.049   3.729 0.00089 ***
+Residuals   43 104.34   2.427                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
