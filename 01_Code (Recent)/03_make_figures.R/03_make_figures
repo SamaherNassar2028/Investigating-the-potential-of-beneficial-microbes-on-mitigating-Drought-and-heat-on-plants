@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------
+# Author: Samaher Nassar
+# Date: 06/12/2026
+# Description: This script was written to create figures, visualizing my 
+# data for the report. Figure 1 is a box plot comparing plant heights 
+# across different treatments, to evaluate whether they possess more 
+# in-group or between-group variation as an indicator of experimental 
+# evidence vs data randomness. Figure 2 is a scatter plot showing plant 
+# height vs chlorophyll levels to assess how insightful this data can be. 
+-------------------------------------------------------------------------
+
+# 1. Loading the clean datasets creating using Script 1
+living_df <- read.csv("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_living.csv")
+all_df <- read.csv("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_all.csv")
+
+# 2. Re-identifying treatment groups and filtering the non-living plants
+living_df$treatment <- as.factor(living_df$treatment) 
+living_df$species <- as.factor(living_df$species) 
+living_df <- droplevels(living_df) 
+
+# Figure 1: Boxplot comparing Final Height across Treatments (some extra space was added and labels tilted to accommodate the large number of treatment groups.  
+png("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/05_Figures/height_vs_treatment_boxplot.png", width = 2400, height = 1800, res = 300)
+par(mar = c(15, 5, 4, 2)) 
+boxplot(final_height ~ treatment, data = living_df, 
+        main = "Final Height distribution across Treatment Groups", 
+        xlab = "", 
+        ylab = "Height (cm)", 
+        col = "orange", 
+        las = 2, 
+        cex.axis = 0.7)
+dev.off()
+
+# Figure 1: 2: Scatter plot correlating Height vs Chlorophyll Levels ( 
+png("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/05_Figures/height_vs_chlorophyll_scatter.png", width = 2400, height = 1800, res = 300)
+plot(living_df$chlorophyll_final, living_df$final_height, 
+     main = "Correlation Between Final Chlorophyll and Plant Height", 
+     xlab = "Chlorophyll Meter Measurement (Final)", 
+     ylab = "Final Height (cm)", 
+     pch = 19, 
+     col = "pink")
+abline(lm(final_height ~ chlorophyll_final, data = living_df), col = "red", lwd = 2) # Trendline 
+
+dev.off()

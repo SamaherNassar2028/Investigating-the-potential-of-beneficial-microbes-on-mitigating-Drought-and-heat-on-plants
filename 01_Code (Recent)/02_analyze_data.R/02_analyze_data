@@ -1,0 +1,66 @@
+-------------------------------------------------------------------------
+# Author: Samaher Nassar
+# Date: 06/12/2026
+# Description: This script was written to analyze the data using 5 
+# different analytical methods taught in class, in order to collect 
+# evidence that will later support me in answering my research questions. # The goals here were to gain general knowledge of how the plants 
+# performed under the stressors, test if the resulting plant height 
+# variation is associated with the different treatment groups in a 
+# statistically significant manner, identify the most influential 
+# treatments, test for statistically significant correlation between 
+# qualitative plant attributes and treatment groups, and finally 
+# understand the extent of correlation between plants’ heights and their 
+# chlorophyll levels. 
+-------------------------------------------------------------------------
+
+# 1. Loading the clean datasets creating using Script 1
+living_df <- read.csv("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_living.csv")
+all_df <- read.csv("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_all.csv")
+
+# 2. Re-identifying treatment groups and filtering the non-living plants
+living_df$treatment <- as.factor(living_df$treatment) 
+living_df$species <- as.factor(living_df$species) 
+living_df <- droplevels(living_df) 
+
+# Method 1: 95% Height Confidence Intervals using methods learned in class and utilized in previous assignments. 
+mean_h <- mean(living_df$final_height, na.rm = TRUE)
+sd_h <- sd(living_df$final_height, na.rm = TRUE)
+n_h <- sum(!is.na(living_df$final_height))
+se_h <- sd_h / sqrt(n_h)
+lower_ci <- mean_h - (1.96 * se_h)
+upper_ci <- mean_h + (1.96 * se_h)
+# Save output as a table in its designated folder “06_Tables”
+ci_table <- data.frame(Metric = c("Mean", "SD", "N", "Lower_CI", "Upper_CI"),Value = c(mean_h, sd_h, n_h, lower_ci, upper_ci))
+write.csv(ci_table, "C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/06_Tables/height_95_CI.csv", row.names = FALSE)
+
+# Method 2: One-Way ANOVA to assess the extent to which (if any) final plant heights differ across treatment groups.
+height_anova <- aov(final_height ~ treatment, data = living_df)
+# Save output as a text to its designated folder “04_Results” 
+sink("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/04_Results/anova_results.txt")
+summary(height_anova)
+sink()
+
+# Method 3: Tukey's HSD Post-Hoc Test to pinpoint the specific treatments which have statistically significant differences from one another.
+tukey_output <- TukeyHSD(height_anova)
+# Save output as a text to its designated folder “04_Results” 
+sink("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/04_Results/tukey_HSD_posthoc_results.txt")
+print(tukey_output)
+sink()
+
+# Method 4: Chi-Square (X²) Test of Independence to assess the correlation between plant status and the various treatment groups. 
+# creating an initial table, keeping only living plants, and finding the total for its rows and columns. 
+contingency_table <- table(all_df$treatment, all_df$final_status)
+clean_contingency <- contingency_table[rowSums(contingency_table) > 0, colSums(contingency_table) > 0]
+# Running the Monte Carlo simulation test to make up for the high plant mortality rate since the analysis was not able to run beforehand
+chisq_output <- chisq.test(clean_contingency, simulate.p.value = TRUE, B = 2000)
+# Save output as a text to its designated folder “04_Results” 
+sink("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/04_Results/chisq_survival_results.txt")
+print(chisq_output)
+sink()
+
+# Method 5: Spearman Correlation Analysis to measure the relationship between plant height and chlorophyll levels. 
+correlation_output <- cor.test(living_df$final_height, living_df$chlorophyll_final, method = "spearman", na.rm = TRUE)
+# Save output as a text to its designated folder “04_Results” 
+sink("C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/04_Results/spearman_correlation_results.txt")
+print(correlation_output)
+sink()

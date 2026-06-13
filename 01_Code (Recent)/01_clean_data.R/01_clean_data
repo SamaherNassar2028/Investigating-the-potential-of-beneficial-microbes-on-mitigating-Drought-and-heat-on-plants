@@ -1,0 +1,80 @@
+-------------------------------------------------------------------------
+  # Author: Samaher Nassar
+  # Date: 06/12/2026
+  # Description: This script was written to clean up the raw data set, 
+  # preparing it for analysis. The raw data was mostly empty due to high 
+  # plant mortality rate during the experiment, along with low germination 
+  # rate to begin with. The main goals here were to remove the “non 
+  # entries,” to get rid of multi-data type cells, and to isolate the plant # which remained living until the end of the experiment. 
+  -------------------------------------------------------------------------
+  
+  # 1. Loading my raw data file
+  raw_df <- read.csv( "C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/01_Code/01_clean_data.R/Samaher_Greenhouse_Data_Earth211.xlsx - Raw Data.csv" )
+  
+  
+  # 2. Inspecting the dataset for basic information as taught to do in class out of habit
+  head(raw_df)
+  str(raw_df)
+  summary(raw_df)
+  
+  # 3. Getting rid of any non numerical values placed in the cells as observations throughout measuring weekly plant heights. 
+  h_08_08 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.08))
+  h_08_11 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.11))
+  h_08_14 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.14))
+  h_08_18 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.18))
+  h_08_20 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.20))
+  h_08_22 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.22))
+  h_08_25 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.25))
+  h_08_29 <- as.numeric(gsub("[^0-9.]", "", raw_df$Height..cm..08.29))
+  
+  # 4. Joining the various species’ accessions since the germination rate there was not high enough for that to be a variable we are able to test for
+  clean_species <- raw_df$Species
+  clean_species[grepl("Nigella", raw_df$Species)] <- "Nigella sativa"
+  clean_species[grepl("Brassica", raw_df$Species)] <- "Brassica oleracea"
+  
+  # 5. Creating an empty data frame to later store all my values in
+  clean_all <- data.frame(
+    species           = as.factor(clean_species),
+    treatment         = as.factor(raw_df$Treatment.s.),
+    rack              = raw_df$Rack.no,
+    
+    # Storing the cleaned-up height measurements (cm) recorded over the 5-week growth period
+    height_08_08      = h_08_08,
+    height_08_11      = h_08_11,
+    height_08_14      = h_08_14,
+    height_08_18      = h_08_18,
+    height_08_20      = h_08_20,
+    height_08_22      = h_08_22,
+    height_08_25      = h_08_25,
+    final_height      = h_08_29,  
+    
+    # Storing qualitative plant status scores (0=Dead,1=Necrosis/Wilting, 2=Thriving)
+    status_08_08      = raw_df$Status.08.08,
+    status_08_11      = raw_df$Status.08.11,
+    status_08_14      = raw_df$Status.08.14,
+    status_08_18      = raw_df$Status.08.18,
+    status_08_20      = raw_df$Status.08.20,
+    status_08_22      = raw_df$Status.08.22,
+    final_status      = as.numeric(raw_df$Status.08.29..all.racks.but.2.are.2.and.rack.2.is.1.entirely.), # Renaming the cleaned up variable
+    
+    # Treating the chlorophyll measurements as numerical inputs
+    chlorophyll_08_18 = as.numeric(raw_df$Clorophyl.Meter.Measurement.8.18),
+    chlorophyll_08_22 = as.numeric(raw_df$Clorophyl.Meter.Measurement.8.22),
+    chlorophyll_final = as.numeric(raw_df$Clorophyl.Meter.Measurement.8.29),
+    
+    # Treating the true leaf counts as numerical inputs 
+    leaf_count_08_26  = as.numeric(raw_df$True.leaf.count.08.26),
+    leaf_count_08_28  = as.numeric(raw_df$True.leaf.count.08.28),
+    leaf_count_final  = as.numeric(raw_df$True.leaf.count.08.29.Emerged)
+  )
+  
+  # 5. Setting every “non-value” as a unified “NA”
+  clean_all$final_height[clean_all$final_height == 0] <- NA
+  
+  # 6. Creating a subset of all living plants(with recorded final height)
+  clean_living <- clean_all[!is.na(clean_all$final_height), ]
+  
+  # 7. Saving the subsets to the 03_ProcessedData folder
+  write.csv(clean_all, "C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_all.csv", row.names = FALSE)
+  write.csv(clean_living, "C:/Users/Samaher Nassar/Downloads/EARTH 211_Final Project_Nassar/03_ProcessedData/clean_living.csv", row.names = FALSE)
+  
